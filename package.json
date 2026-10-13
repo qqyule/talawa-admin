@@ -40,7 +40,7 @@
     "history": "^5.3.0",
     "i18next": "^25.0.2",
     "i18next-browser-languagedetector": "^8.2.0",
-    "i18next-http-backend": "^3.0.2",
+    "i18next-http-backend": "^4.0.2",
     "inquirer": "^12.9.0",
     "js-cookie": "^3.0.1",
     "jszip": "^3.10.1",
